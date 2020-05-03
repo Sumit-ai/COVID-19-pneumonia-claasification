@@ -1,19 +1,24 @@
 # COVID-19-pneumonia-claasification
-## Nomral Chest-Xray
+Pneumonia is an infection in one or both lungs. Bacteria, viruses, and fungi cause it. The infection causes inflammation in the air sacs in your lungs, which are called alveoli. The alveoli fill with fluid or pus, making it difficult to breathe. Read on to learn more about pneumonia and how to treat it.
+
+
+## Nomral Chest-Xray:
 
 <img align="center" src="1.png" width="600" />
 
-## pneumonia-bacteria Chest-Xray
+## pneumonia-bacteria Chest-Xray:
 
 <img align="center" src="2.png" width="600" />
 
-## pneumonia-Virus Chest-Xray
+## pneumonia-Virus Chest-Xray:
 
 <img align="center" src="3.png" width="600" />
 
-## pneumonia-Virus-COVID-19 Chest-Xray
+## pneumonia-Virus-COVID-19 Chest-Xray:
 
 <img align="center" src="4.png" width="600" />
+
+## Information about Image:
 
 - The dimensions of the image are 750 pixels width and 781 pixels height, one single color channel 
 - The maximum pixel value is 255.0000 and the minimum is 0.0000 
