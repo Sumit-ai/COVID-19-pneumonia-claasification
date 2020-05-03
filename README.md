@@ -26,6 +26,10 @@ Pneumonia is an infection in one or both lungs. Bacteria, viruses, and fungi cau
 
 <img align="center" src="5.png" width="600" />
 
+## Top losses: 
+
+<img align="center" src="6.png" width="600" />
+
 ## Confusion Matrix of classes: 
 
 <img align="center" src="7.png" width="600" />
