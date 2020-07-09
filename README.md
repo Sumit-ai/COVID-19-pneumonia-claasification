@@ -1,5 +1,5 @@
 # COVID-19-pneumonia-claasification
-Pneumonia is an infection in one or both lungs. Bacteria, viruses, and fungi cause it. The infection causes inflammation in the air sacs in your lungs, which are called alveoli. The alveoli fill with fluid or pus, making it difficult to breathe. Read on to learn more about pneumonia and how to treat it.
+**Pneumonia is an infection in one or both lungs. Bacteria, viruses, and fungi cause it. The infection causes inflammation in the air sacs in your lungs, which are called alveoli. The alveoli fill with fluid or pus, making it difficult to breathe. Read on to learn more about pneumonia and how to treat it.**
 
 
 ## Nomral Chest-Xray:
