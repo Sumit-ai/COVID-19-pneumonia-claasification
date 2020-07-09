@@ -1,5 +1,7 @@
 # COVID-19-pneumonia-claasification
-**Pneumonia is an infection in one or both lungs. Bacteria, viruses, and fungi cause it. The infection causes inflammation in the air sacs in your lungs, which are called alveoli. The alveoli fill with fluid or pus, making it difficult to breathe. Read on to learn more about pneumonia and how to treat it.**
+**Pneumonia is an infection in one or both lungs. Bacteria, viruses, and fungi cause it. The infection causes inflammation in the air sacs in your lungs, which are called alveoli. The alveoli fill with fluid or pus, making it difficult to breathe.** 
+
+**We presents methodology of a Deep Learning based chest X-ray image binary classifier model. This model takes the chest X-ray images as an input and results the class (Pneumonia affected or Normal). It is a threefold operation: At first the X-ray images are normalized using batch normalization technique and then two pretrained Residual Neural Networks, with 50 and 34 hidden layers is trained with 5910 normal and Pneumonia chest X ray images. Finally, the trained deep learning model predicts in real time. **
 
 
 ## Nomral Chest-Xray:
