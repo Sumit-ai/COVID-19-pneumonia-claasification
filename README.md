@@ -4,19 +4,19 @@ Pneumonia is an infection in one or both lungs. Bacteria, viruses, and fungi cau
 
 ## Nomral Chest-Xray:
 
-<img align="center" src="1.png" width="300" />
+<img align="center" src="1.png" width="400" />
 
 ## pneumonia-bacteria Chest-Xray:
 
-<img align="center" src="2.png" width="300" />
+<img align="center" src="2.png" width="400" />
 
 ## pneumonia-Virus Chest-Xray:
 
-<img align="center" src="3.png" width="300" />
+<img align="center" src="3.png" width="400" />
 
 ## pneumonia-Virus-COVID-19 Chest-Xray:
 
-<img align="center" src="4.png" width="300" />
+<img align="center" src="4.png" width="400" />
 
 ## Information about Image:
 
@@ -28,7 +28,7 @@ Pneumonia is an infection in one or both lungs. Bacteria, viruses, and fungi cau
 
 ## Top losses: 
 
-<img align="center" src="6.png" width="200" />
+<img align="center" src="6.png" width="400" />
 
 ## Confusion Matrix of classes: 
 
