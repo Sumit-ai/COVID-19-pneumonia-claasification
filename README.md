@@ -28,11 +28,12 @@
 
 <img align="center" src="5.png" width="300" />
 
-## Confusion Matrix of classes: 
+## Results: 
+### Confusion Matrix of classes: 
 
 <img align="center" src="7.png" width="400" />
 
 
-## Top losses: 
+### Top losses: 
 
 <img align="center" src="6.png" width="600" />
