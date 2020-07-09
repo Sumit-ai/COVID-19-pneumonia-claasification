@@ -4,19 +4,19 @@ Pneumonia is an infection in one or both lungs. Bacteria, viruses, and fungi cau
 
 ## Nomral Chest-Xray:
 
-<img align="center" src="1.png" width="600" />
+<img align="center" src="1.png" width="300" />
 
 ## pneumonia-bacteria Chest-Xray:
 
-<img align="center" src="2.png" width="600" />
+<img align="center" src="2.png" width="300" />
 
 ## pneumonia-Virus Chest-Xray:
 
-<img align="center" src="3.png" width="600" />
+<img align="center" src="3.png" width="300" />
 
 ## pneumonia-Virus-COVID-19 Chest-Xray:
 
-<img align="center" src="4.png" width="600" />
+<img align="center" src="4.png" width="300" />
 
 ## Information about Image:
 
@@ -24,12 +24,12 @@ Pneumonia is an infection in one or both lungs. Bacteria, viruses, and fungi cau
 - The maximum pixel value is 255.0000 and the minimum is 0.0000 
 - The mean value of the pixels is 134.5100 and the standard deviation is 54.1969 
 
-<img align="center" src="5.png" width="600" />
+<img align="center" src="5.png" width="200" />
 
 ## Top losses: 
 
-<img align="center" src="6.png" width="600" />
+<img align="center" src="6.png" width="200" />
 
 ## Confusion Matrix of classes: 
 
-<img align="center" src="7.png" width="600" />
+<img align="center" src="7.png" width="200" />
