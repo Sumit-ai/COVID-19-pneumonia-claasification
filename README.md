@@ -18,7 +18,7 @@
 
 ## pneumonia-Virus-COVID-19 Chest-Xray:
 
-<img align="center" src="4.png" width="400" />
+<img align="center" src="4.png" width="600" />
 
 ## Information about Image:
 
@@ -43,4 +43,4 @@ It is an important step, it ensures that each input parameter has same distribut
 
 ### Top losses: 
 
-<img align="center" src="6.png" width="600" />
+<img align="center" src="6.png" width="700" />
