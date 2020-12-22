@@ -45,4 +45,4 @@ It is an important step, it ensures that each input parameter has same distribut
 ### Top losses: 
 
 <img align="center" src="6.png" width="700" />
-### The code can be found  [here](https://nbviewer.jupyter.org/github/Sumit-ai/COVID-19-pneumonia-claasification/blob/master/final-xray.ipynb)
+### The code can be found [here](https://nbviewer.jupyter.org/github/Sumit-ai/COVID-19-pneumonia-claasification/blob/master/final-xray.ipynb)
