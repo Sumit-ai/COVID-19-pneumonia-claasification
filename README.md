@@ -46,5 +46,4 @@ It is an important step, it ensures that each input parameter has same distribut
 
 <img align="center" src="6.png" width="700" />
 
-### The code can be found [here](https://nbviewer.jupyter.org/github/Sumit-ai/COVID-19-pneumonia-claasification/blob/master/final-xray.ipynb)
-[ML Resources](https://sgfin.github.io/learning-resources/?fbclid=IwAR0umPazGbijWj4PsY8AM_QtDdd-Ku-xFsrAscSxMxHgvgRHInrhoCE26lU)
+### The code of this paper can be found [here](https://nbviewer.jupyter.org/github/Sumit-ai/COVID-19-pneumonia-claasification/blob/master/final-xray.ipynb)
