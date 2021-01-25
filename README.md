@@ -1,7 +1,7 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/sumit-ai/covid-19-pneumonia-claasification/badge)](https://www.codefactor.io/repository/github/sumit-ai/covid-19-pneumonia-claasification)
 # COVID-19-pneumonia-claasification
 
-A Deep Learning based chest X-ray image binary classifier model is presented. This model takes the chest X-ray images as an input and results the class (Pneumonia affected or Normal). It is a threefold operation: At first the X-ray images are normalized using batch normalization technique and then two pretrained Residual Neural Networks, with 50 and 34 hidden layers is trained with 5910 normal and Pneumonia chest X ray images. Finally, the trained deep learning model predicts in real time.**
+A Deep Learning based chest X-ray image binary classifier model is presented. This model takes the chest X-ray images as an input and results the class (Pneumonia affected or Normal). It is a threefold operation: At first the X-ray images are normalized using batch normalization technique and then two pretrained Residual Neural Networks, with 50 and 34 hidden layers is trained with 5910 normal and Pneumonia chest X ray images. Finally, the trained deep learning model predicts in real time.
 
 _Pneumonia is an infection in one or both lungs. Bacteria, viruses, and fungi cause it. The infection causes inflammation in the air sacs in your lungs, which are called alveoli. The alveoli fill with fluid or pus, making it difficult to breathe._
 
